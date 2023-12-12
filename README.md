@@ -28,8 +28,8 @@
 ## 노트북
 
 자세한 내용은 
-* [fine-tune-llama-2-13b-on-amazon-sagemaker.ipynb](https://github.com/didhd/llama2-finetuning-deploy/blob/main/fine-tune-llama-2-13b-on-amazon-sagemaker.ipynb)
-
+* [fine-tune-llama-2-7b-on-amazon-sagemaker.ipynb](https://github.com/didhd/llama2-finetuning-deploy/blob/main/fine-tune-llama-2-7b-on-amazon-sagemaker.ipynb)
+* [deploy-llama-2-7b-on-amazon-sagemaker.ipynb](https://github.com/didhd/llama2-finetuning-deploy/blob/main/deploy-llama-2-7b-on-amazon-sagemaker.ipynb)
   
 노트북을 참고하십시오.
 

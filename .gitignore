@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Custom files to ignore (add any other file patterns you want to ignore)
+# e.g., secret files, environment files, etc.
+
+# Example:
+# .env
+# secret_key_file.txt
+
+
